@@ -1,4 +1,4 @@
-update=Fri 02 Jun 2017 02:55:03 AM EDT
+update=Fri 02 Jun 2017 11:43:55 AM EDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,6 +23,8 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
+[general]
+version=1
 [eeschema]
 version=1
 LibDir=
@@ -60,5 +62,5 @@ LibName30=local
 LibName31=choke
 LibName32=hv9910c
 LibName33=3204-6
-[general]
-version=1
+LibName34=esp8266mod
+LibName35=ch340g
